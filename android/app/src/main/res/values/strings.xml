@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NotasApp</string>
+    <string name="add_note_title">Nova Nota</string>
+    <string name="edit_note_title">Editar Nota</string>
+    <string name="map_title">Localização</string>
+    <string name="title_hint">Título</string>
+    <string name="content_hint">Conteúdo</string>
+    <string name="save_button">Guardar</string>
+    <string name="capture_location">Capturar Localização</string>
+    <string name="no_notes">Nenhuma nota encontrada</string>
+    <string name="delete_confirm">Tem certeza que deseja eliminar esta nota?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="loading">A carregar...</string>
+</resources>
